@@ -1,3 +1,5 @@
+**_The second task [TASK-2] is a React Application which fetched the data from an API and displays the User's ID,NAME,PROFILE-IMAGE,EMAIL._**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
