@@ -1,4 +1,4 @@
-**_The second task [TASK-2] is a React Application which fetched the data from an API and displays the User's ID,NAME,PROFILE-IMAGE,EMAIL._**
+# **_The second task [TASK-2] is a React Application which fetched the data from an API and displays the User's ID,NAME,PROFILE-IMAGE,EMAIL._**
 
 # Getting Started with Create React App
 
